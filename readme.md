@@ -19,4 +19,4 @@ OBSが起動している状態で接続が成功すると通知がでます。(W
 あとは、録画開始ボタンを押すと周期録画が開始します。
 
 ## 備考
-具合などがありましたら、[Twitter](https://twitter.com/Conripi1230)のDMまでお願いします。
+具合などがありましたら、[Twitter](https://twitter.com/c_onripi)のDMまでお願いします。
