@@ -1,8 +1,8 @@
-#TailsOBSとは
+# TailsOBSとは
 OBSを指定周期で録画するソフトです。また、緊急地震速報(以下EEW)が発令されたときに録画を延長する機能が備わっています。
 手動で録画を開始停止する手間を減らし、編集する時間を短縮するのが目的です。
 
-##導入
+## 導入
 このソフトは[obs-websocket](https://github.com/Palakis/obs-websocket/releases)を使用しているため、OBSにそれを導入する必要があります。
 現在(2020/08/17)最新バージョンはobs-websocket 4.8です。<br>
 Install instructionsから貴方が使用してるOSに対応したものをダウンロードしてください。
@@ -18,4 +18,5 @@ OBSが起動している状態で接続が成功すると通知がでます。(W
 
 あとは、録画開始ボタンを押すと周期録画が開始します。
 
+## 備考
 具合などがありましたら、[Twitter](https://twitter.com/Conripi1230)のDMまでお願いします。
