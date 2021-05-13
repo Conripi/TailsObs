@@ -1,0 +1,16 @@
+D:\VisualStudio\tailobs\tailobs\bin\Release\tailobs.exe.config
+D:\VisualStudio\tailobs\tailobs\bin\Release\tailobs.exe
+D:\VisualStudio\tailobs\tailobs\bin\Release\tailobs.pdb
+D:\VisualStudio\tailobs\tailobs\bin\Release\Newtonsoft.Json.dll
+D:\VisualStudio\tailobs\tailobs\bin\Release\OBS.WebSocket.NET.dll
+D:\VisualStudio\tailobs\tailobs\bin\Release\SuperSocket.ClientEngine.dll
+D:\VisualStudio\tailobs\tailobs\bin\Release\WebSocket4Net.dll
+D:\VisualStudio\tailobs\tailobs\bin\Release\Newtonsoft.Json.xml
+D:\VisualStudio\tailobs\tailobs\obj\Release\tailobs.csprojAssemblyReference.cache
+D:\VisualStudio\tailobs\tailobs\obj\Release\tailobs.tailobs.resources
+D:\VisualStudio\tailobs\tailobs\obj\Release\tailobs.Properties.Resources.resources
+D:\VisualStudio\tailobs\tailobs\obj\Release\tailobs.csproj.GenerateResource.cache
+D:\VisualStudio\tailobs\tailobs\obj\Release\tailobs.csproj.CoreCompileInputs.cache
+D:\VisualStudio\tailobs\tailobs\obj\Release\tailobs.csproj.CopyComplete
+D:\VisualStudio\tailobs\tailobs\obj\Release\tailobs.exe
+D:\VisualStudio\tailobs\tailobs\obj\Release\tailobs.pdb

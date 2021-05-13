@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tailobs", "tailobs\tailobs.csproj", "{C2D94C14-13A3-40C0-BD1C-87EA6F5C5CA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2D94C14-13A3-40C0-BD1C-87EA6F5C5CA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2D94C14-13A3-40C0-BD1C-87EA6F5C5CA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2D94C14-13A3-40C0-BD1C-87EA6F5C5CA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2D94C14-13A3-40C0-BD1C-87EA6F5C5CA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F57A85A-E2FB-47A4-902F-F09A526B4393}
+	EndGlobalSection
+EndGlobal
