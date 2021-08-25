@@ -5,7 +5,7 @@ OBSを指定周期で録画するソフトです。また、緊急地震速報(�
 ## 導入
 このソフトは[obs-websocket](https://github.com/Palakis/obs-websocket/releases)を使用しているため、OBSにそれを導入する必要があります。
 現在(2020/08/17)最新バージョンはobs-websocket 4.8です。<br>
-Install instructionsから貴方が使用してるOSに対応したものをダウンロードしてください。
+Install instructionsから使用してるOSに対応したものをダウンロードしてください。
 
 インストールが完了したらOBSのツール > Websockets server settingsを選択してください。
 "WebSocketsサーバーを有効にする"にチェックをつけて、"認証を有効にする"にもチェックをつけます。
