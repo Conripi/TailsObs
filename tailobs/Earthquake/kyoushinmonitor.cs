@@ -13,7 +13,8 @@ namespace tailobs.Earthquake
         {
             try
             {
-                var url = $"http://www.kmoni.bosai.go.jp/webservice/hypo/eew/{NTP.ntp.GetDateTimeNow():yyyyMMddHHmmss}";
+                var url = $"http://www.kmoni.bosai.go.jp/webservice/hypo/eew/{NTP.ntp.GetDateTimeNow():yyyyMMddHHmmss}.json";
+                Console.WriteLine(url);
                 var html = await GetHtml(url);
                 return html.Contains("データがありません") ? false : true;
             }
